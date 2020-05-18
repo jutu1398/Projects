@@ -1,0 +1,2 @@
+Some of the interactive plots were not rendering when uploaded to github.
+I have placed images (non-interactive) versions in the folder.
