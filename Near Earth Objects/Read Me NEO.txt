@@ -1,4 +1,1 @@
-Some of the interactive plots were not rendering when uploaded to github.
-I have placed images (non-interactive) versions in the folder.
-
-Additionally, Github usually has issues loading the notebook. Please go to this link to view it: https://nbviewer.jupyter.org/github/justustulo/Projects/blob/master/Near%20Earth%20Objects/Near%20Earth%20Object%20Classification.ipynb
+Github usually has issues loading the notebook. Please go to this link to view it: https://nbviewer.jupyter.org/github/justustulo/Projects/blob/master/Near%20Earth%20Objects/Near%20Earth%20Object%20Classification.ipynb
